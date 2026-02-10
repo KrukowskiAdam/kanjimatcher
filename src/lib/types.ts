@@ -1,0 +1,21 @@
+export type Pair = { jp: string; en: string; audio?: string; hiragana?: string };
+export type Tile = { key: string; text: string; side: "jp" | "en"; audio?: string; hiragana?: string };
+export type Grade = { label: string; pairs: Pair[]; roundIndexes: number[] };
+export type Round = {
+    pairs: Pair[];
+    gradeIndex: number;
+    gradeLabel: string;
+    tabNumber: number;
+    jpTiles: Tile[];
+    enTiles: Tile[];
+    matchedKeys: Set<string>;
+    firstSelection: Tile | null;
+    errorTiles: Set<string>;
+    hintTileId: string | null;
+    lockBoard: boolean;
+};
+export type KanjiEntry = { kanji?: string; meanings?: string[]; grade?: number };
+export type KanjiApiResponse = { kanjis?: Record<string, KanjiEntry> };
+export type KanjiItem = { kanji: string; hiragana: string; meaning: string };
+export type JoyoGroup = { label: string; items: KanjiItem[] };
+export type JoyoData = { groups: JoyoGroup[] };

@@ -1,0 +1,28 @@
+@config "../tailwind.config.js";
+@import "tailwindcss";
+
+:root {
+  --dark-bg: #030712;
+  --dark-card: #111828;
+  --light-card: #022873;
+  --dark-border: #1e2938;
+  --light-border: #c3c3c3;
+  --level-expert: #ff8c02;
+  --level-learning: #0ea5e9;
+  --level-mastered: #02bf33;
+  --button-disabled: #acacac;
+}
+
+body {
+  background-color: var(--dark-bg);
+  color: white;
+}
+
+/* Disable drawer animations */
+.drawer-side,
+.drawer-overlay,
+.drawer-toggle,
+.drawer-side > * {
+  transition: none !important;
+  animation: none !important;
+}

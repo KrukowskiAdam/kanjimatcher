@@ -1,0 +1,14 @@
+{
+    "name": "svelte-kanji-functions",
+    "private": true,
+    "main": "src/index.js",
+    "engines": {
+        "node": "20"
+    },
+    "scripts": {
+        "build": "cd .. && npm run build:firebase"
+    },
+    "dependencies": {
+        "firebase-functions": "^7.0.5"
+    }
+}
