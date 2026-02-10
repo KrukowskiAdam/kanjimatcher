@@ -5,7 +5,7 @@ Prosta gra typu Language Match oparta o Joyo kanji. Uzywa SvelteKit i lokalnego 
 ## Dane
 
 - Plik: `static/Jōyō_Kanji/Jōyō_Kanji.txt`
-- Mapa tlumaczen: `static/joyo_kanji_en.json` (z hiragana i angielskimi znaczeniami)
+- Mapa tlumaczen: `static/joyo_kanji_en.json` (z hiragana i angielskimi znaczeniami, katakana)
 - Wczytywanie po stronie klienta przez `fetch("/joyo_kanji_en.json")`
 - Kazdy kanji zawiera:
   - **kanji** - znak japonski
