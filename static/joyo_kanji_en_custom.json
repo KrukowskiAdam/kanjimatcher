@@ -161,7 +161,7 @@
         {
           "kanji": "的",
           "hiragana": "てき",
-          "meaning": "-ic"
+          "meaning": "target, suffix: -like"
         },
         {
           "kanji": "方",
@@ -331,7 +331,7 @@
         {
           "kanji": "実",
           "hiragana": "み",
-          "meaning": "fruit"
+          "meaning": "reality, truth"
         },
         {
           "kanji": "作",
@@ -401,12 +401,12 @@
         {
           "kanji": "性",
           "hiragana": "せい",
-          "meaning": "sex"
+          "meaning": "nature, gender"
         },
         {
           "kanji": "対",
           "hiragana": "たい",
-          "meaning": "versus"
+          "meaning": "against, opposite"
         },
         {
           "kanji": "意",
@@ -456,7 +456,7 @@
         {
           "kanji": "郎",
           "hiragana": "おとこ",
-          "meaning": "counter for sons"
+          "meaning": "boy, son"
         },
         {
           "kanji": "業",
@@ -497,17 +497,17 @@
           "kanji": "所",
           "hiragana": "ところ",
           "meaning": "place"
-        },
-        {
-          "kanji": "現",
-          "hiragana": "あらわれる",
-          "meaning": "present"
         }
       ]
     },
     {
       "label": "Jōyō Kanji 101-200",
       "items": [
+        {
+          "kanji": "現",
+          "hiragana": "あらわれる",
+          "meaning": "present"
+        },
         {
           "kanji": "最",
           "hiragana": "もっとも",
@@ -631,7 +631,7 @@
         {
           "kanji": "経",
           "hiragana": "たていと",
-          "meaning": "expire"
+          "meaning": "sutra, pass through"
         },
         {
           "kanji": "信",
@@ -646,7 +646,7 @@
         {
           "kanji": "以",
           "hiragana": "もって",
-          "meaning": "because"
+          "meaning": "by means of, since"
         },
         {
           "kanji": "語",
@@ -661,7 +661,7 @@
         {
           "kanji": "連",
           "hiragana": "つらなる",
-          "meaning": "clique"
+          "meaning": "connect, take along"
         },
         {
           "kanji": "問",
@@ -761,7 +761,7 @@
         {
           "kanji": "無",
           "hiragana": "ない",
-          "meaning": "ain't"
+          "meaning": "nothing, nothingness"
         },
         {
           "kanji": "少",
@@ -911,7 +911,7 @@
         {
           "kanji": "込",
           "hiragana": "こめる",
-          "meaning": "(kokuji)"
+          "meaning": "include (kokuji)"
         },
         {
           "kanji": "朝",
@@ -931,7 +931,7 @@
         {
           "kanji": "解",
           "hiragana": "ほどける",
-          "meaning": "absolve"
+          "meaning": "unravel, solve"
         },
         {
           "kanji": "市",
@@ -941,12 +941,12 @@
         {
           "kanji": "期",
           "hiragana": "き",
-          "meaning": "date"
+          "meaning": "period, term"
         },
         {
           "kanji": "様",
           "hiragana": "さま",
-          "meaning": "Esq."
+          "meaning": "manner"
         },
         {
           "kanji": "村",
@@ -997,7 +997,12 @@
           "kanji": "説",
           "hiragana": "とく",
           "meaning": "explanation"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 201-300",
+      "items": [
         {
           "kanji": "七",
           "hiragana": "なな",
@@ -1007,12 +1012,7 @@
           "kanji": "能",
           "hiragana": "のう",
           "meaning": "ability"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 201-300",
-      "items": [
+        },
         {
           "kanji": "京",
           "hiragana": "きょう",
@@ -1236,7 +1236,7 @@
         {
           "kanji": "命",
           "hiragana": "いのち",
-          "meaning": "appoint"
+          "meaning": "life, command"
         },
         {
           "kanji": "番",
@@ -1266,7 +1266,7 @@
         {
           "kanji": "戸",
           "hiragana": "と",
-          "meaning": "counter for houses"
+          "meaning": "door, household"
         },
         {
           "kanji": "好",
@@ -1296,7 +1296,7 @@
         {
           "kanji": "殺",
           "hiragana": "あやめる",
-          "meaning": "butcher"
+          "meaning": "kill"
         },
         {
           "kanji": "起",
@@ -1346,7 +1346,7 @@
         {
           "kanji": "際",
           "hiragana": "ぎわ",
-          "meaning": "adventurous"
+          "meaning": "occasion, time"
         },
         {
           "kanji": "歳",
@@ -1361,7 +1361,7 @@
         {
           "kanji": "帰",
           "hiragana": "おくる",
-          "meaning": "arrive at"
+          "meaning": "return home"
         },
         {
           "kanji": "歩",
@@ -1371,7 +1371,7 @@
         {
           "kanji": "井",
           "hiragana": "い",
-          "meaning": "community"
+          "meaning": "well"
         },
         {
           "kanji": "悪",
@@ -1436,7 +1436,7 @@
         {
           "kanji": "係",
           "hiragana": "かかわる",
-          "meaning": "concern oneself"
+          "meaning": "person in charge"
         },
         {
           "kanji": "由",
@@ -1491,13 +1491,18 @@
         {
           "kanji": "張",
           "hiragana": "はり",
-          "meaning": "counter for bows & stringed instruments"
+          "meaning": "stretch"
         },
         {
           "kanji": "約",
           "hiragana": "つづまやか",
           "meaning": "approximately"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 301-400",
+      "items": [
         {
           "kanji": "馬",
           "hiragana": "うま",
@@ -1512,12 +1517,7 @@
           "kanji": "待",
           "hiragana": "まつ",
           "meaning": "wait"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 301-400",
-      "items": [
+        },
         {
           "kanji": "古",
           "hiragana": "ふるす",
@@ -1556,7 +1556,7 @@
         {
           "kanji": "米",
           "hiragana": "こめ",
-          "meaning": "USA"
+          "meaning": "rice"
         },
         {
           "kanji": "配",
@@ -1566,7 +1566,7 @@
         {
           "kanji": "若",
           "hiragana": "もしくは",
-          "meaning": "if"
+          "meaning": "young"
         },
         {
           "kanji": "終",
@@ -1626,7 +1626,7 @@
         {
           "kanji": "役",
           "hiragana": "えき",
-          "meaning": "campaign"
+          "meaning": "role, duty"
         },
         {
           "kanji": "城",
@@ -1696,7 +1696,7 @@
         {
           "kanji": "応",
           "hiragana": "こたえる",
-          "meaning": "OK"
+          "meaning": "respond, apply"
         },
         {
           "kanji": "済",
@@ -1781,7 +1781,7 @@
         {
           "kanji": "師",
           "hiragana": "いくさ",
-          "meaning": "army (incl. counter)"
+          "meaning": "teacher, expert"
         },
         {
           "kanji": "台",
@@ -1791,7 +1791,7 @@
         {
           "kanji": "党",
           "hiragana": "なかま",
-          "meaning": "clique"
+          "meaning": "political party"
         },
         {
           "kanji": "告",
@@ -1891,7 +1891,7 @@
         {
           "kanji": "介",
           "hiragana": "かい",
-          "meaning": "concern oneself with"
+          "meaning": "mediate"
         },
         {
           "kanji": "建",
@@ -1997,11 +1997,16 @@
           "kanji": "根",
           "hiragana": "ね",
           "meaning": "head (pimple)"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 401-500",
+      "items": [
         {
-          "kanji": "予",
-          "hiragana": "あらかじめ",
-          "meaning": "I"
+          "kanji": "付",
+          "hiragana": "つける",
+          "meaning": "attach"
         },
         {
           "kanji": "路",
@@ -2017,12 +2022,7 @@
           "kanji": "座",
           "hiragana": "すわる",
           "meaning": "cushion"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 401-500",
-      "items": [
+        },
         {
           "kanji": "工",
           "hiragana": "こう",
@@ -2036,7 +2036,7 @@
         {
           "kanji": "基",
           "hiragana": "もとい",
-          "meaning": "counter for machines"
+          "meaning": "fundamentals"
         },
         {
           "kanji": "客",
@@ -2056,7 +2056,7 @@
         {
           "kanji": "図",
           "hiragana": "はかる",
-          "meaning": "audacious"
+          "meaning": "diagram"
         },
         {
           "kanji": "追",
@@ -2096,7 +2096,7 @@
         {
           "kanji": "素",
           "hiragana": "もと",
-          "meaning": "elementary"
+          "meaning": "element"
         },
         {
           "kanji": "息",
@@ -2131,7 +2131,7 @@
         {
           "kanji": "失",
           "hiragana": "うしなう",
-          "meaning": "disadvantage"
+          "meaning": "lose"
         },
         {
           "kanji": "泉",
@@ -2181,12 +2181,12 @@
         {
           "kanji": "識",
           "hiragana": "しるす",
-          "meaning": "discriminating"
+          "meaning": "recognize"
         },
         {
           "kanji": "警",
           "hiragana": "いましめる",
-          "meaning": "admonish"
+          "meaning": "guard"
         },
         {
           "kanji": "花",
@@ -2196,12 +2196,12 @@
         {
           "kanji": "優",
           "hiragana": "すぐれる",
-          "meaning": "actor"
+          "meaning": "excel"
         },
         {
           "kanji": "投",
           "hiragana": "なげる",
-          "meaning": "abandon"
+          "meaning": "throw"
         },
         {
           "kanji": "英",
@@ -2211,17 +2211,17 @@
         {
           "kanji": "細",
           "hiragana": "こまかい",
-          "meaning": "dainty"
+          "meaning": "fine"
         },
         {
           "kanji": "局",
           "hiragana": "つぼね",
-          "meaning": "affair"
+          "meaning": "bureau"
         },
         {
           "kanji": "難",
           "hiragana": "むずかしい",
-          "meaning": "accident"
+          "meaning": "difficult"
         },
         {
           "kanji": "種",
@@ -2231,7 +2231,7 @@
         {
           "kanji": "証",
           "hiragana": "あかし",
-          "meaning": "certificate"
+          "meaning": "evidence"
         },
         {
           "kanji": "走",
@@ -2271,12 +2271,12 @@
         {
           "kanji": "奥",
           "hiragana": "おくまる",
-          "meaning": "heart"
+          "meaning": "interior"
         },
         {
           "kanji": "派",
           "hiragana": "は",
-          "meaning": "clique"
+          "meaning": "faction"
         },
         {
           "kanji": "僕",
@@ -2331,7 +2331,7 @@
         {
           "kanji": "差",
           "hiragana": "さし",
-          "meaning": "balance"
+          "meaning": "difference"
         },
         {
           "kanji": "火",
@@ -2341,7 +2341,7 @@
         {
           "kanji": "苦",
           "hiragana": "くるしめる",
-          "meaning": "feel bitter"
+          "meaning": "painful"
         },
         {
           "kanji": "器",
@@ -2361,7 +2361,7 @@
         {
           "kanji": "異",
           "hiragana": "ことなる",
-          "meaning": "curious"
+          "meaning": "different"
         },
         {
           "kanji": "血",
@@ -2431,7 +2431,7 @@
         {
           "kanji": "独",
           "hiragana": "ひとり",
-          "meaning": "Germany"
+          "meaning": "alone"
         },
         {
           "kanji": "象",
@@ -2441,12 +2441,12 @@
         {
           "kanji": "清",
           "hiragana": "きよまる",
-          "meaning": "Manchu dynasty"
+          "meaning": "pure"
         },
         {
           "kanji": "技",
           "hiragana": "わざ",
-          "meaning": "ability"
+          "meaning": "skill"
         },
         {
           "kanji": "州",
@@ -2456,7 +2456,7 @@
         {
           "kanji": "申",
           "hiragana": "もうし",
-          "meaning": "3-5PM"
+          "meaning": "say, report"
         },
         {
           "kanji": "例",
@@ -2466,7 +2466,7 @@
         {
           "kanji": "働",
           "hiragana": "はたらく",
-          "meaning": "(kokuji)"
+          "meaning": "work (kokuji)"
         },
         {
           "kanji": "景",
@@ -2497,7 +2497,12 @@
           "kanji": "橋",
           "hiragana": "はし",
           "meaning": "bridge"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 501-600",
+      "items": [
         {
           "kanji": "源",
           "hiragana": "みなもと",
@@ -2522,12 +2527,7 @@
           "kanji": "絶",
           "hiragana": "たえる",
           "meaning": "abstain"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 501-600",
-      "items": [
+        },
         {
           "kanji": "館",
           "hiragana": "やかた",
@@ -2546,7 +2546,7 @@
         {
           "kanji": "負",
           "hiragana": "まかす",
-          "meaning": "-"
+          "meaning": "defeat, bear"
         },
         {
           "kanji": "福",
@@ -2556,7 +2556,7 @@
         {
           "kanji": "企",
           "hiragana": "くわだてる",
-          "meaning": "attempt"
+          "meaning": "plan"
         },
         {
           "kanji": "旅",
@@ -2576,7 +2576,7 @@
         {
           "kanji": "君",
           "hiragana": "ぎみ",
-          "meaning": "male name suffix"
+          "meaning": "suffix of familiarity"
         },
         {
           "kanji": "験",
@@ -2596,7 +2596,7 @@
         {
           "kanji": "写",
           "hiragana": "うつし",
-          "meaning": "be photographed"
+          "meaning": "copy"
         },
         {
           "kanji": "望",
@@ -2616,7 +2616,7 @@
         {
           "kanji": "単",
           "hiragana": "ひとえ",
-          "meaning": "merely"
+          "meaning": "simple"
         },
         {
           "kanji": "押",
@@ -2701,7 +2701,7 @@
         {
           "kanji": "階",
           "hiragana": "きざはし",
-          "meaning": "counter for storeys of a building"
+          "meaning": "floor, story"
         },
         {
           "kanji": "等",
@@ -2726,7 +2726,7 @@
         {
           "kanji": "波",
           "hiragana": "なみ",
-          "meaning": "Poland"
+          "meaning": "wave"
         },
         {
           "kanji": "提",
@@ -2756,7 +2756,7 @@
         {
           "kanji": "域",
           "hiragana": "いき",
-          "meaning": "level"
+          "meaning": "region"
         },
         {
           "kanji": "飲",
@@ -2786,12 +2786,12 @@
         {
           "kanji": "越",
           "hiragana": "こえる",
-          "meaning": "Vietnam"
+          "meaning": "surpass"
         },
         {
           "kanji": "服",
           "hiragana": "ふく",
-          "meaning": "admit"
+          "meaning": "clothing"
         },
         {
           "kanji": "接",
@@ -2806,17 +2806,17 @@
         {
           "kanji": "密",
           "hiragana": "ひそか",
-          "meaning": "carefulness"
+          "meaning": "密 secret"
         },
         {
           "kanji": "司",
           "hiragana": "つかさどる",
-          "meaning": "administer"
+          "meaning": "direct"
         },
         {
           "kanji": "登",
           "hiragana": "あがる",
-          "meaning": "ascend"
+          "meaning": "climb"
         },
         {
           "kanji": "頃",
@@ -2841,7 +2841,7 @@
         {
           "kanji": "未",
           "hiragana": "いまだ",
-          "meaning": "1-3PM"
+          "meaning": "not yet"
         },
         {
           "kanji": "材",
@@ -2851,7 +2851,7 @@
         {
           "kanji": "個",
           "hiragana": "か",
-          "meaning": "counter for articles"
+          "meaning": "individual"
         },
         {
           "kanji": "康",
@@ -2941,7 +2941,7 @@
         {
           "kanji": "比",
           "hiragana": "くらべる",
-          "meaning": "Philippines"
+          "meaning": "comparison"
         },
         {
           "kanji": "坂",
@@ -2956,12 +2956,12 @@
         {
           "kanji": "装",
           "hiragana": "よそおい",
-          "meaning": "attire"
+          "meaning": "dress,装equip"
         },
         {
           "kanji": "監",
           "hiragana": "かん",
-          "meaning": "administer"
+          "meaning": "supervise"
         },
         {
           "kanji": "崎",
@@ -2976,17 +2976,17 @@
         {
           "kanji": "鮮",
           "hiragana": "あざやか",
-          "meaning": "Korea"
+          "meaning": "fresh"
         },
         {
           "kanji": "税",
           "hiragana": "ぜい",
-          "meaning": "duty"
+          "meaning": "tax"
         },
         {
           "kanji": "激",
           "hiragana": "はげしい",
-          "meaning": "chafe"
+          "meaning": "violent"
         },
         {
           "kanji": "徳",
@@ -2997,7 +2997,12 @@
           "kanji": "挙",
           "hiragana": "あがる",
           "meaning": "actions"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 601-700",
+      "items": [
         {
           "kanji": "志",
           "hiragana": "こころざす",
@@ -3021,18 +3026,13 @@
         {
           "kanji": "退",
           "hiragana": "しりぞける",
-          "meaning": "expel"
+          "meaning": "retreat"
         },
         {
           "kanji": "費",
           "hiragana": "ついえる",
-          "meaning": "consume"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 601-700",
-      "items": [
+          "meaning": "expense"
+        },
         {
           "kanji": "非",
           "hiragana": "あらず",
@@ -3041,7 +3041,7 @@
         {
           "kanji": "囲",
           "hiragana": "かこい",
-          "meaning": "besiege"
+          "meaning": "surround"
         },
         {
           "kanji": "喜",
@@ -3096,12 +3096,12 @@
         {
           "kanji": "探",
           "hiragana": "さがす",
-          "meaning": "grope"
+          "meaning": "search"
         },
         {
           "kanji": "極",
           "hiragana": "きわまり",
-          "meaning": "10**48"
+          "meaning": "pole, extremity"
         },
         {
           "kanji": "遺",
@@ -3116,7 +3116,7 @@
         {
           "kanji": "低",
           "hiragana": "ひくまる",
-          "meaning": "humble"
+          "meaning": "low"
         },
         {
           "kanji": "犯",
@@ -3126,7 +3126,7 @@
         {
           "kanji": "薬",
           "hiragana": "くすり",
-          "meaning": "benefit"
+          "meaning": "medicine"
         },
         {
           "kanji": "園",
@@ -3136,7 +3136,7 @@
         {
           "kanji": "疑",
           "hiragana": "うたがう",
-          "meaning": "be suspicious"
+          "meaning": "doubt"
         },
         {
           "kanji": "林",
@@ -3161,7 +3161,7 @@
         {
           "kanji": "具",
           "hiragana": "そなえる",
-          "meaning": "counter for armor, suits, sets of furniture"
+          "meaning": "tool"
         },
         {
           "kanji": "席",
@@ -3226,7 +3226,7 @@
         {
           "kanji": "寝",
           "hiragana": "みたまや",
-          "meaning": "bed"
+          "meaning": "sleep"
         },
         {
           "kanji": "宅",
@@ -3256,12 +3256,12 @@
         {
           "kanji": "尾",
           "hiragana": "お",
-          "meaning": "counter for fish"
+          "meaning": "tail"
         },
         {
           "kanji": "株",
           "hiragana": "かぶ",
-          "meaning": "counter for small plants"
+          "meaning": "stocks"
         },
         {
           "kanji": "破",
@@ -3311,7 +3311,7 @@
         {
           "kanji": "余",
           "hiragana": "あんまり",
-          "meaning": "myself"
+          "meaning": "too much"
         },
         {
           "kanji": "敵",
@@ -3391,7 +3391,7 @@
         {
           "kanji": "片",
           "hiragana": "かた",
-          "meaning": "leaf"
+          "meaning": "one side"
         },
         {
           "kanji": "並",
@@ -3451,7 +3451,7 @@
         {
           "kanji": "腰",
           "hiragana": "こし",
-          "meaning": "hips"
+          "meaning": "waist"
         },
         {
           "kanji": "我",
@@ -3481,12 +3481,12 @@
         {
           "kanji": "殿",
           "hiragana": "どの",
-          "meaning": "Mr."
+          "meaning": "lord, hall"
         },
         {
           "kanji": "載",
           "hiragana": "のせる",
-          "meaning": "10**44"
+          "meaning": "ride, record"
         },
         {
           "kanji": "響",
@@ -3497,7 +3497,12 @@
           "kanji": "秘",
           "hiragana": "かくす",
           "meaning": "conceal"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 701-800",
+      "items": [
         {
           "kanji": "布",
           "hiragana": "きれ",
@@ -3532,12 +3537,7 @@
           "kanji": "習",
           "hiragana": "ならい",
           "meaning": "learn"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 701-800",
-      "items": [
+        },
         {
           "kanji": "健",
           "hiragana": "すこやか",
@@ -3596,7 +3596,7 @@
         {
           "kanji": "援",
           "hiragana": "えん",
-          "meaning": "abet"
+          "meaning": "aid"
         },
         {
           "kanji": "故",
@@ -3651,7 +3651,7 @@
         {
           "kanji": "弟",
           "hiragana": "おとうと",
-          "meaning": "faithful service to elders"
+          "meaning": "younger brother"
         },
         {
           "kanji": "刻",
@@ -3686,7 +3686,7 @@
         {
           "kanji": "欲",
           "hiragana": "ほっする",
-          "meaning": "covetousness"
+          "meaning": "desire"
         },
         {
           "kanji": "途",
@@ -3696,7 +3696,7 @@
         {
           "kanji": "曲",
           "hiragana": "まがる",
-          "meaning": "bend"
+          "meaning": "curve"
         },
         {
           "kanji": "耳",
@@ -3711,7 +3711,7 @@
         {
           "kanji": "里",
           "hiragana": "さと",
-          "meaning": "league"
+          "meaning": "village"
         },
         {
           "kanji": "願",
@@ -3831,7 +3831,7 @@
         {
           "kanji": "羽",
           "hiragana": "はね",
-          "meaning": "counter for birds, rabbits"
+          "meaning": "feather"
         },
         {
           "kanji": "及",
@@ -3846,7 +3846,7 @@
         {
           "kanji": "逆",
           "hiragana": "さからう",
-          "meaning": "inverted"
+          "meaning": "reverse"
         },
         {
           "kanji": "腕",
@@ -3866,7 +3866,7 @@
         {
           "kanji": "留",
           "hiragana": "とどまる",
-          "meaning": "detain"
+          "meaning": "fasten"
         },
         {
           "kanji": "礼",
@@ -3876,12 +3876,12 @@
         {
           "kanji": "短",
           "hiragana": "みじかい",
-          "meaning": "brevity"
+          "meaning": "short"
         },
         {
           "kanji": "普",
           "hiragana": "あまねく",
-          "meaning": "Prussia"
+          "meaning": "universal"
         },
         {
           "kanji": "岩",
@@ -3997,7 +3997,12 @@
           "kanji": "捕",
           "hiragana": "つかまえる",
           "meaning": "capture"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 801-900",
+      "items": [
         {
           "kanji": "刀",
           "hiragana": "かたな",
@@ -4037,12 +4042,7 @@
           "kanji": "含",
           "hiragana": "ふくめる",
           "meaning": "bear in mind"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 801-900",
-      "items": [
+        },
         {
           "kanji": "弁",
           "hiragana": "わきまえる",
@@ -4141,7 +4141,7 @@
         {
           "kanji": "折",
           "hiragana": "おれる",
-          "meaning": "bend"
+          "meaning": "fold"
         },
         {
           "kanji": "億",
@@ -4356,7 +4356,7 @@
         {
           "kanji": "微",
           "hiragana": "かすか",
-          "meaning": "delicate"
+          "meaning": "minute"
         },
         {
           "kanji": "髪",
@@ -4531,7 +4531,7 @@
         {
           "kanji": "勤",
           "hiragana": "いそしむ",
-          "meaning": "become employed"
+          "meaning": "work, serve"
         },
         {
           "kanji": "昔",
@@ -4661,7 +4661,7 @@
         {
           "kanji": "候",
           "hiragana": "そうろう",
-          "meaning": "climate"
+          "meaning": "season"
         },
         {
           "kanji": "爆",
@@ -4781,7 +4781,7 @@
         {
           "kanji": "儀",
           "hiragana": "ぎ",
-          "meaning": "a matter"
+          "meaning": "ceremony"
         },
         {
           "kanji": "紹",
@@ -4796,7 +4796,7 @@
         {
           "kanji": "包",
           "hiragana": "くるむ",
-          "meaning": "conceal"
+          "meaning": "wrap"
         },
         {
           "kanji": "庁",
@@ -4806,7 +4806,7 @@
         {
           "kanji": "測",
           "hiragana": "はかる",
-          "meaning": "fathom"
+          "meaning": "measure"
         },
         {
           "kanji": "占",
@@ -4861,7 +4861,7 @@
         {
           "kanji": "栄",
           "hiragana": "さかえる",
-          "meaning": "flourish"
+          "meaning": "prosper"
         },
         {
           "kanji": "床",
@@ -4911,7 +4911,7 @@
         {
           "kanji": "枚",
           "hiragana": "ばい",
-          "meaning": "counter for flat thin objects or sheets"
+          "meaning": "sheet"
         },
         {
           "kanji": "救",
@@ -4984,9 +4984,9 @@
           "meaning": "back"
         },
         {
-          "kanji": "簡",
-          "hiragana": "えらぶ",
-          "meaning": "brevity"
+          "kanji": "明",
+          "hiragana": "あかるい",
+          "meaning": "simple"
         },
         {
           "kanji": "撮",
@@ -5016,7 +5016,7 @@
         {
           "kanji": "丈",
           "hiragana": "たけ",
-          "meaning": "Mr."
+          "meaning": "length"
         },
         {
           "kanji": "煙",
@@ -5042,17 +5042,17 @@
           "kanji": "徒",
           "hiragana": "いたずら",
           "meaning": "emptiness"
-        },
-        {
-          "kanji": "届",
-          "hiragana": "とどける",
-          "meaning": "arrive"
         }
       ]
     },
     {
       "label": "Jōyō Kanji 1001-1100",
       "items": [
+        {
+          "kanji": "届",
+          "hiragana": "とどける",
+          "meaning": "arrive"
+        },
         {
           "kanji": "遣",
           "hiragana": "つかわす",
@@ -5176,7 +5176,7 @@
         {
           "kanji": "伏",
           "hiragana": "ふせる",
-          "meaning": "bend down"
+          "meaning": "prostrate"
         },
         {
           "kanji": "宝",
@@ -5456,7 +5456,7 @@
         {
           "kanji": "屈",
           "hiragana": "かがめる",
-          "meaning": "bend"
+          "meaning": "yield"
         },
         {
           "kanji": "勘",
@@ -5542,7 +5542,12 @@
           "kanji": "券",
           "hiragana": "けん",
           "meaning": "ticket"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1101-1200",
+      "items": [
         {
           "kanji": "脚",
           "hiragana": "あし",
@@ -5552,12 +5557,7 @@
           "kanji": "虎",
           "hiragana": "とら",
           "meaning": "drunkard"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1101-1200",
-      "items": [
+        },
         {
           "kanji": "祭",
           "hiragana": "まつり",
@@ -5616,7 +5616,7 @@
         {
           "kanji": "杯",
           "hiragana": "さかずき",
-          "meaning": "counter for cupfuls"
+          "meaning": "cup"
         },
         {
           "kanji": "忍",
@@ -5761,7 +5761,7 @@
         {
           "kanji": "俊",
           "hiragana": "しゅん",
-          "meaning": "excellence"
+          "meaning": "genius"
         },
         {
           "kanji": "汚",
@@ -5821,7 +5821,7 @@
         {
           "kanji": "招",
           "hiragana": "まねく",
-          "meaning": "beckon"
+          "meaning": "invite"
         },
         {
           "kanji": "涙",
@@ -6021,7 +6021,7 @@
         {
           "kanji": "潜",
           "hiragana": "かくれる",
-          "meaning": "conceal"
+          "meaning": "submerge"
         },
         {
           "kanji": "酔",
@@ -6042,7 +6042,12 @@
           "kanji": "丹",
           "hiragana": "に",
           "meaning": "pills"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1201-1300",
+      "items": [
         {
           "kanji": "亜",
           "hiragana": "つぐ",
@@ -6057,12 +6062,7 @@
           "kanji": "沼",
           "hiragana": "ぬま",
           "meaning": "bog"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1201-1300",
-      "items": [
+        },
         {
           "kanji": "巡",
           "hiragana": "めぐり",
@@ -6246,7 +6246,7 @@
         {
           "kanji": "軒",
           "hiragana": "のき",
-          "meaning": "counter for houses"
+          "meaning": "eaves"
         },
         {
           "kanji": "績",
@@ -6426,7 +6426,7 @@
         {
           "kanji": "烈",
           "hiragana": "はげしい",
-          "meaning": "ardent"
+          "meaning": "intense"
         },
         {
           "kanji": "索",
@@ -6436,7 +6436,7 @@
         {
           "kanji": "匂",
           "hiragana": "におわせる",
-          "meaning": "(kokuji)"
+          "meaning": "smell (kokuji)"
         },
         {
           "kanji": "漁",
@@ -6511,7 +6511,7 @@
         {
           "kanji": "騎",
           "hiragana": "き",
-          "meaning": "counter for equestrians"
+          "meaning": "equestrian"
         },
         {
           "kanji": "墓",
@@ -6526,7 +6526,7 @@
         {
           "kanji": "畳",
           "hiragana": "かさなる",
-          "meaning": "counter for tatami mats"
+          "meaning": "tatami mat"
         },
         {
           "kanji": "孔",
@@ -6542,7 +6542,12 @@
           "kanji": "須",
           "hiragana": "すべからく",
           "meaning": "by all means"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1301-1400",
+      "items": [
         {
           "kanji": "臨",
           "hiragana": "のぞむ",
@@ -6562,12 +6567,7 @@
           "kanji": "咲",
           "hiragana": "ざき",
           "meaning": "bloom"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1301-1400",
-      "items": [
+        },
         {
           "kanji": "貿",
           "hiragana": "ぼう",
@@ -7042,7 +7042,12 @@
           "kanji": "荘",
           "hiragana": "おごそか",
           "meaning": "cottage"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1401-1500",
+      "items": [
         {
           "kanji": "匠",
           "hiragana": "たくみ",
@@ -7067,12 +7072,7 @@
           "kanji": "脂",
           "hiragana": "あぶら",
           "meaning": "fat"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1401-1500",
-      "items": [
+        },
         {
           "kanji": "粉",
           "hiragana": "デシメートル",
@@ -7542,7 +7542,12 @@
           "kanji": "汁",
           "hiragana": "しる",
           "meaning": "broth"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1501-1600",
+      "items": [
         {
           "kanji": "溶",
           "hiragana": "とかす",
@@ -7572,12 +7577,7 @@
           "kanji": "浄",
           "hiragana": "きよめる",
           "meaning": "Manchu Dynasty"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1501-1600",
-      "items": [
+        },
         {
           "kanji": "酷",
           "hiragana": "ひどい",
@@ -8042,7 +8042,12 @@
           "kanji": "殴",
           "hiragana": "なぐる",
           "meaning": "assault"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1601-1700",
+      "items": [
         {
           "kanji": "盾",
           "hiragana": "たて",
@@ -8077,12 +8082,7 @@
           "kanji": "癖",
           "hiragana": "くせに",
           "meaning": "fault"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1601-1700",
-      "items": [
+        },
         {
           "kanji": "潤",
           "hiragana": "うるおう",
@@ -8542,7 +8542,12 @@
           "kanji": "嵐",
           "hiragana": "あらし",
           "meaning": "storm"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 1701-1800",
+      "items": [
         {
           "kanji": "憤",
           "hiragana": "いきどおる",
@@ -8582,12 +8587,7 @@
           "kanji": "傑",
           "hiragana": "すぐれる",
           "meaning": "excellence"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 1701-1800",
-      "items": [
+        },
         {
           "kanji": "拘",
           "hiragana": "かかわる",
@@ -9587,17 +9587,17 @@
           "kanji": "暫",
           "hiragana": "しばらく",
           "meaning": "a while"
-        },
-        {
-          "kanji": "爽",
-          "hiragana": "あきらか",
-          "meaning": "bracing"
         }
       ]
     },
     {
       "label": "Jōyō Kanji 1901-2000",
       "items": [
+        {
+          "kanji": "爽",
+          "hiragana": "あきらか",
+          "meaning": "bracing"
+        },
         {
           "kanji": "肖",
           "hiragana": "あやかる",
@@ -10087,7 +10087,12 @@
           "kanji": "栃",
           "hiragana": "とち",
           "meaning": "(kokuji)"
-        },
+        }
+      ]
+    },
+    {
+      "label": "Jōyō Kanji 2001-2136",
+      "items": [
         {
           "kanji": "且",
           "hiragana": "かつ",
@@ -10097,12 +10102,7 @@
           "kanji": "鋳",
           "hiragana": "いる",
           "meaning": "casting"
-        }
-      ]
-    },
-    {
-      "label": "Jōyō Kanji 2001-2136",
-      "items": [
+        },
         {
           "kanji": "叱",
           "hiragana": "しかる",
@@ -10767,21 +10767,6 @@
           "kanji": "剥",
           "hiragana": "はがれる",
           "meaning": "come off"
-        },
-        {
-          "kanji": "籠",
-          "hiragana": "こめる",
-          "meaning": "basket"
-        },
-        {
-          "kanji": "楷",
-          "hiragana": "かい",
-          "meaning": "correctness"
-        },
-        {
-          "kanji": "頰",
-          "hiragana": "ほお",
-          "meaning": "cheeks"
         }
       ]
     }

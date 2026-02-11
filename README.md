@@ -2,6 +2,12 @@
 
 Prosta gra typu Language Match oparta o Joyo kanji. Uzywa SvelteKit i lokalnego pliku danych.
 
+Progress: 1300/2136 kanji reviewed (61% complete)
+
+Approximately 836 kanji remain in groups 1301-2136, with an estimated 160-200 more corrections needed.
+
+
+
 ## Dane
 
 - Plik: `static/Jōyō_Kanji/Jōyō_Kanji.txt`
