@@ -50,3 +50,7 @@ npm run build
 npm run preview
 firebase deploy
 ```
+## Build
+git add .
+git commit -m "cos tam"
+git push
